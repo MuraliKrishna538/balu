@@ -1,0 +1,1 @@
+This course teaches you how to use Amazon Web Services to manage and secure apps built with .NET. You will also learn how to use AWS tools for .NET apps and engage with real-life examples of how to put a .NET app on AWS Cloud.
